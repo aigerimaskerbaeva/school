@@ -1,0 +1,8 @@
+venv
+.idea
+idea/workspase.xml
+__pycache__
+media
+product_photo
+db.sqlite3
+.DS_Store
